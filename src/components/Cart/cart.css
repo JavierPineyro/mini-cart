@@ -1,0 +1,68 @@
+.cart {
+  background-color: #151515;
+  position: fixed;
+  top: 0;
+  right: 0;
+  visibility: hidden;
+  width: 0px;
+  height: 100%;
+  overflow-y: inherit;
+  overflow-x: hidden;
+  padding: 40px 10px 10px 10px;
+  transition: width 0.3s ease;
+}
+
+.cart img {
+  aspect-ratio: 16/9;
+  width: 100%;
+}
+
+.cart-label {
+  color: #151515;
+  border-radius: 9999px;
+  padding: 4px;
+  transition: all 0.3s ease;
+  z-index: 9999;
+  position: fixed;
+  top: 10px;
+  right: 18px;
+}
+
+.cart-label ~ input:checked ~ .cart {
+  visibility: visible;
+  width: 300px;
+}
+
+.cart::-webkit-scrollbar {
+  width: 2px;
+  height: 2px;
+}
+.cart::-webkit-scrollbar-button {
+  width: 0px;
+  height: 0px;
+}
+.cart::-webkit-scrollbar-thumb {
+  background: #e1e1e1;
+  border: 0px none #ffffff;
+  border-radius: 47px;
+}
+.cart::-webkit-scrollbar-thumb:hover {
+  background: #ffffff;
+}
+.cart::-webkit-scrollbar-thumb:active {
+  background: #000000;
+}
+.cart::-webkit-scrollbar-track {
+  background: #666666;
+  border: 0px none #ffffff;
+  border-radius: 50px;
+}
+.cart::-webkit-scrollbar-track:hover {
+  background: #666666;
+}
+.cart::-webkit-scrollbar-track:active {
+  background: #333333;
+}
+.cart::-webkit-scrollbar-corner {
+  background: transparent;
+}

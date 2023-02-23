@@ -1,0 +1,462 @@
+[
+  {
+    "id": 9,
+    "title": "Elegant Soft Cheese",
+    "price": 431,
+    "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+    "images": [
+      "https://api.lorem.space/image?w=640&h=480&r=1443",
+      "https://api.lorem.space/image?w=640&h=480&r=494",
+      "https://api.lorem.space/image?w=640&h=480&r=8531"
+    ],
+    "creationAt": "2023-02-15T20:38:57.000Z",
+    "updatedAt": "2023-02-15T20:38:57.000Z",
+    "category": {
+      "id": 5,
+      "name": "Others",
+      "image": "https://api.lorem.space/image?w=640&h=480&r=648",
+      "creationAt": "2023-02-15T20:38:57.000Z",
+      "updatedAt": "2023-02-15T20:38:57.000Z"
+    }
+  },
+  {
+    "id": 10,
+    "title": "Intelligent Soft Salad",
+    "price": 585,
+    "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+    "images": [
+      "https://api.lorem.space/image?w=640&h=480&r=875",
+      "https://api.lorem.space/image?w=640&h=480&r=4915",
+      "https://api.lorem.space/image?w=640&h=480&r=370"
+    ],
+    "creationAt": "2023-02-15T20:38:57.000Z",
+    "updatedAt": "2023-02-15T20:38:57.000Z",
+    "category": {
+      "id": 5,
+      "name": "Others",
+      "image": "https://api.lorem.space/image?w=640&h=480&r=648",
+      "creationAt": "2023-02-15T20:38:57.000Z",
+      "updatedAt": "2023-02-15T20:38:57.000Z"
+    }
+  },
+  {
+    "id": 12,
+    "title": "Unbranded Plastic Fish",
+    "price": 877,
+    "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+    "images": [
+      "https://api.lorem.space/image/fashion?w=640&h=480&r=6151",
+      "https://api.lorem.space/image/fashion?w=640&h=480&r=1338",
+      "https://api.lorem.space/image/fashion?w=640&h=480&r=847"
+    ],
+    "creationAt": "2023-02-15T20:38:57.000Z",
+    "updatedAt": "2023-02-15T20:38:57.000Z",
+    "category": {
+      "id": 1,
+      "name": "Ropa",
+      "image": "https://api.lorem.space/image/fashion?w=640&h=480&r=1358",
+      "creationAt": "2023-02-15T20:38:57.000Z",
+      "updatedAt": "2023-02-16T19:56:54.000Z"
+    }
+  },
+  {
+    "id": 13,
+    "title": "Practical Frozen Chicken",
+    "price": 844,
+    "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+    "images": [
+      "https://api.lorem.space/image/furniture?w=640&h=480&r=4383",
+      "https://api.lorem.space/image/furniture?w=640&h=480&r=5625",
+      "https://api.lorem.space/image/furniture?w=640&h=480&r=4124"
+    ],
+    "creationAt": "2023-02-15T20:38:57.000Z",
+    "updatedAt": "2023-02-15T20:38:57.000Z",
+    "category": {
+      "id": 3,
+      "name": "Muebles",
+      "image": "https://firebasestorage.googleapis.com/v0/b/platzi-store-forms.appspot.com/o/categories%2Fmh.jpg?alt=media&token=0e28fbcc-4b27-4205-8d0f-c127c9972c45",
+      "creationAt": "2023-02-15T20:38:57.000Z",
+      "updatedAt": "2023-02-16T19:58:08.000Z"
+    }
+  },
+  {
+    "id": 14,
+    "title": "Electronic Concrete Computer",
+    "price": 2,
+    "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+    "images": [
+      "https://api.lorem.space/image/furniture?w=640&h=480&r=3713",
+      "https://api.lorem.space/image/furniture?w=640&h=480&r=516",
+      "https://api.lorem.space/image/furniture?w=640&h=480&r=1974"
+    ],
+    "creationAt": "2023-02-15T20:38:57.000Z",
+    "updatedAt": "2023-02-15T20:38:57.000Z",
+    "category": {
+      "id": 3,
+      "name": "Muebles",
+      "image": "https://firebasestorage.googleapis.com/v0/b/platzi-store-forms.appspot.com/o/categories%2Fmh.jpg?alt=media&token=0e28fbcc-4b27-4205-8d0f-c127c9972c45",
+      "creationAt": "2023-02-15T20:38:57.000Z",
+      "updatedAt": "2023-02-16T19:58:08.000Z"
+    }
+  },
+  {
+    "id": 15,
+    "title": "Cambiando otro producto",
+    "price": 69420,
+    "description": "Otro cambio como por las moscas :v",
+    "images": [
+      "https://api.lorem.space/image/shoes?w=640&h=480&r=4825",
+      "https://api.lorem.space/image/shoes?w=640&h=480&r=5003",
+      "https://api.lorem.space/image/shoes?w=640&h=480&r=8086"
+    ],
+    "creationAt": "2023-02-15T20:38:57.000Z",
+    "updatedAt": "2023-02-15T23:25:16.000Z",
+    "category": {
+      "id": 4,
+      "name": "Shoes",
+      "image": "https://api.lorem.space/image/shoes?w=640&h=480&r=3652",
+      "creationAt": "2023-02-15T20:38:57.000Z",
+      "updatedAt": "2023-02-15T20:38:57.000Z"
+    }
+  },
+  {
+    "id": 16,
+    "title": "Generic Granite Towels",
+    "price": 497,
+    "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+    "images": [
+      "https://api.lorem.space/image/furniture?w=640&h=480&r=4109",
+      "https://api.lorem.space/image/furniture?w=640&h=480&r=4768",
+      "https://api.lorem.space/image/furniture?w=640&h=480&r=6811"
+    ],
+    "creationAt": "2023-02-15T20:38:57.000Z",
+    "updatedAt": "2023-02-15T20:38:57.000Z",
+    "category": {
+      "id": 3,
+      "name": "Muebles",
+      "image": "https://firebasestorage.googleapis.com/v0/b/platzi-store-forms.appspot.com/o/categories%2Fmh.jpg?alt=media&token=0e28fbcc-4b27-4205-8d0f-c127c9972c45",
+      "creationAt": "2023-02-15T20:38:57.000Z",
+      "updatedAt": "2023-02-16T19:58:08.000Z"
+    }
+  },
+  {
+    "id": 17,
+    "title": "Modern Rubber Shirt",
+    "price": 499,
+    "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+    "images": [
+      "https://api.lorem.space/image/furniture?w=640&h=480&r=4169",
+      "https://api.lorem.space/image/furniture?w=640&h=480&r=4912",
+      "https://api.lorem.space/image/furniture?w=640&h=480&r=5581"
+    ],
+    "creationAt": "2023-02-15T20:38:57.000Z",
+    "updatedAt": "2023-02-15T20:38:57.000Z",
+    "category": {
+      "id": 3,
+      "name": "Muebles",
+      "image": "https://firebasestorage.googleapis.com/v0/b/platzi-store-forms.appspot.com/o/categories%2Fmh.jpg?alt=media&token=0e28fbcc-4b27-4205-8d0f-c127c9972c45",
+      "creationAt": "2023-02-15T20:38:57.000Z",
+      "updatedAt": "2023-02-16T19:58:08.000Z"
+    }
+  },
+  {
+    "id": 18,
+    "title": "Generic Wooden Soap",
+    "price": 784,
+    "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+    "images": [
+      "https://api.lorem.space/image/watch?w=640&h=480&r=7759",
+      "https://api.lorem.space/image/watch?w=640&h=480&r=186",
+      "https://api.lorem.space/image/watch?w=640&h=480&r=8516"
+    ],
+    "creationAt": "2023-02-15T20:38:57.000Z",
+    "updatedAt": "2023-02-15T20:38:57.000Z",
+    "category": {
+      "id": 2,
+      "name": "Electronics",
+      "image": "https://api.lorem.space/image/watch?w=640&h=480&r=2201",
+      "creationAt": "2023-02-15T20:38:57.000Z",
+      "updatedAt": "2023-02-15T20:38:57.000Z"
+    }
+  },
+  {
+    "id": 36,
+    "title": "Unbranded Plastic Car",
+    "price": 241,
+    "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+    "images": [
+      "https://api.lorem.space/image?w=640&h=480&r=1479",
+      "https://api.lorem.space/image?w=640&h=480&r=3460",
+      "https://api.lorem.space/image?w=640&h=480&r=6417"
+    ],
+    "creationAt": "2023-02-15T20:38:57.000Z",
+    "updatedAt": "2023-02-15T20:38:57.000Z",
+    "category": {
+      "id": 5,
+      "name": "Others",
+      "image": "https://api.lorem.space/image?w=640&h=480&r=648",
+      "creationAt": "2023-02-15T20:38:57.000Z",
+      "updatedAt": "2023-02-15T20:38:57.000Z"
+    }
+  },
+  {
+    "id": 37,
+    "title": "Elegant Frozen Ball",
+    "price": 415,
+    "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+    "images": [
+      "https://api.lorem.space/image/furniture?w=640&h=480&r=8868",
+      "https://api.lorem.space/image/furniture?w=640&h=480&r=5298",
+      "https://api.lorem.space/image/furniture?w=640&h=480&r=231"
+    ],
+    "creationAt": "2023-02-15T20:38:57.000Z",
+    "updatedAt": "2023-02-15T20:38:57.000Z",
+    "category": {
+      "id": 3,
+      "name": "Muebles",
+      "image": "https://firebasestorage.googleapis.com/v0/b/platzi-store-forms.appspot.com/o/categories%2Fmh.jpg?alt=media&token=0e28fbcc-4b27-4205-8d0f-c127c9972c45",
+      "creationAt": "2023-02-15T20:38:57.000Z",
+      "updatedAt": "2023-02-16T19:58:08.000Z"
+    }
+  },
+  {
+    "id": 38,
+    "title": "Awesome Concrete Salad",
+    "price": 78,
+    "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+    "images": [
+      "https://api.lorem.space/image?w=640&h=480&r=9835",
+      "https://api.lorem.space/image?w=640&h=480&r=1675",
+      "https://api.lorem.space/image?w=640&h=480&r=5410"
+    ],
+    "creationAt": "2023-02-15T20:38:57.000Z",
+    "updatedAt": "2023-02-15T20:38:57.000Z",
+    "category": {
+      "id": 5,
+      "name": "Others",
+      "image": "https://api.lorem.space/image?w=640&h=480&r=648",
+      "creationAt": "2023-02-15T20:38:57.000Z",
+      "updatedAt": "2023-02-15T20:38:57.000Z"
+    }
+  },
+  {
+    "id": 39,
+    "title": "Practical Granite Computer",
+    "price": 988,
+    "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+    "images": [
+      "https://api.lorem.space/image/furniture?w=640&h=480&r=8734",
+      "https://api.lorem.space/image/furniture?w=640&h=480&r=4975",
+      "https://api.lorem.space/image/furniture?w=640&h=480&r=2622"
+    ],
+    "creationAt": "2023-02-15T20:38:57.000Z",
+    "updatedAt": "2023-02-15T20:38:57.000Z",
+    "category": {
+      "id": 3,
+      "name": "Muebles",
+      "image": "https://firebasestorage.googleapis.com/v0/b/platzi-store-forms.appspot.com/o/categories%2Fmh.jpg?alt=media&token=0e28fbcc-4b27-4205-8d0f-c127c9972c45",
+      "creationAt": "2023-02-15T20:38:57.000Z",
+      "updatedAt": "2023-02-16T19:58:08.000Z"
+    }
+  },
+  {
+    "id": 40,
+    "title": "Intelligent Concrete Shoes",
+    "price": 138,
+    "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+    "images": [
+      "https://api.lorem.space/image/fashion?w=640&h=480&r=7605",
+      "https://api.lorem.space/image/fashion?w=640&h=480&r=7904",
+      "https://api.lorem.space/image/fashion?w=640&h=480&r=2207"
+    ],
+    "creationAt": "2023-02-15T20:38:57.000Z",
+    "updatedAt": "2023-02-15T20:38:57.000Z",
+    "category": {
+      "id": 1,
+      "name": "Ropa",
+      "image": "https://api.lorem.space/image/fashion?w=640&h=480&r=1358",
+      "creationAt": "2023-02-15T20:38:57.000Z",
+      "updatedAt": "2023-02-16T19:56:54.000Z"
+    }
+  },
+  {
+    "id": 41,
+    "title": "Refined Plastic Fish",
+    "price": 925,
+    "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+    "images": [
+      "https://api.lorem.space/image/fashion?w=640&h=480&r=8506",
+      "https://api.lorem.space/image/fashion?w=640&h=480&r=8452",
+      "https://api.lorem.space/image/fashion?w=640&h=480&r=9267"
+    ],
+    "creationAt": "2023-02-15T20:38:57.000Z",
+    "updatedAt": "2023-02-15T20:38:57.000Z",
+    "category": {
+      "id": 1,
+      "name": "Ropa",
+      "image": "https://api.lorem.space/image/fashion?w=640&h=480&r=1358",
+      "creationAt": "2023-02-15T20:38:57.000Z",
+      "updatedAt": "2023-02-16T19:56:54.000Z"
+    }
+  },
+  {
+    "id": 42,
+    "title": "Luxurious Bronze Table",
+    "price": 90,
+    "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+    "images": [
+      "https://api.lorem.space/image/shoes?w=640&h=480&r=2497",
+      "https://api.lorem.space/image/shoes?w=640&h=480&r=147",
+      "https://api.lorem.space/image/shoes?w=640&h=480&r=6681"
+    ],
+    "creationAt": "2023-02-15T20:38:57.000Z",
+    "updatedAt": "2023-02-15T20:38:57.000Z",
+    "category": {
+      "id": 4,
+      "name": "Shoes",
+      "image": "https://api.lorem.space/image/shoes?w=640&h=480&r=3652",
+      "creationAt": "2023-02-15T20:38:57.000Z",
+      "updatedAt": "2023-02-15T20:38:57.000Z"
+    }
+  },
+  {
+    "id": 43,
+    "title": "Gorgeous Concrete Keyboard",
+    "price": 596,
+    "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+    "images": [
+      "https://api.lorem.space/image/furniture?w=640&h=480&r=7924",
+      "https://api.lorem.space/image/furniture?w=640&h=480&r=4226",
+      "https://api.lorem.space/image/furniture?w=640&h=480&r=90"
+    ],
+    "creationAt": "2023-02-15T20:38:57.000Z",
+    "updatedAt": "2023-02-15T20:38:57.000Z",
+    "category": {
+      "id": 3,
+      "name": "Muebles",
+      "image": "https://firebasestorage.googleapis.com/v0/b/platzi-store-forms.appspot.com/o/categories%2Fmh.jpg?alt=media&token=0e28fbcc-4b27-4205-8d0f-c127c9972c45",
+      "creationAt": "2023-02-15T20:38:57.000Z",
+      "updatedAt": "2023-02-16T19:58:08.000Z"
+    }
+  },
+  {
+    "id": 44,
+    "title": "Modern Cotton Car",
+    "price": 668,
+    "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+    "images": [
+      "https://api.lorem.space/image/shoes?w=640&h=480&r=5137",
+      "https://api.lorem.space/image/shoes?w=640&h=480&r=756",
+      "https://api.lorem.space/image/shoes?w=640&h=480&r=4195"
+    ],
+    "creationAt": "2023-02-15T20:38:57.000Z",
+    "updatedAt": "2023-02-15T20:38:57.000Z",
+    "category": {
+      "id": 4,
+      "name": "Shoes",
+      "image": "https://api.lorem.space/image/shoes?w=640&h=480&r=3652",
+      "creationAt": "2023-02-15T20:38:57.000Z",
+      "updatedAt": "2023-02-15T20:38:57.000Z"
+    }
+  },
+  {
+    "id": 45,
+    "title": "Rustic Soft Pizza",
+    "price": 222,
+    "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+    "images": [
+      "https://api.lorem.space/image/shoes?w=640&h=480&r=6240",
+      "https://api.lorem.space/image/shoes?w=640&h=480&r=2036",
+      "https://api.lorem.space/image/shoes?w=640&h=480&r=1242"
+    ],
+    "creationAt": "2023-02-15T20:38:57.000Z",
+    "updatedAt": "2023-02-15T20:38:57.000Z",
+    "category": {
+      "id": 4,
+      "name": "Shoes",
+      "image": "https://api.lorem.space/image/shoes?w=640&h=480&r=3652",
+      "creationAt": "2023-02-15T20:38:57.000Z",
+      "updatedAt": "2023-02-15T20:38:57.000Z"
+    }
+  },
+  {
+    "id": 46,
+    "title": "Gorgeous Frozen Towels",
+    "price": 332,
+    "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+    "images": [
+      "https://api.lorem.space/image/fashion?w=640&h=480&r=2648",
+      "https://api.lorem.space/image/fashion?w=640&h=480&r=5741",
+      "https://api.lorem.space/image/fashion?w=640&h=480&r=8288"
+    ],
+    "creationAt": "2023-02-15T20:38:57.000Z",
+    "updatedAt": "2023-02-15T20:38:57.000Z",
+    "category": {
+      "id": 1,
+      "name": "Ropa",
+      "image": "https://api.lorem.space/image/fashion?w=640&h=480&r=1358",
+      "creationAt": "2023-02-15T20:38:57.000Z",
+      "updatedAt": "2023-02-16T19:56:54.000Z"
+    }
+  },
+  {
+    "id": 47,
+    "title": "Modern Concrete Pants",
+    "price": 128,
+    "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+    "images": [
+      "https://api.lorem.space/image/furniture?w=640&h=480&r=6643",
+      "https://api.lorem.space/image/furniture?w=640&h=480&r=1784",
+      "https://api.lorem.space/image/furniture?w=640&h=480&r=3944"
+    ],
+    "creationAt": "2023-02-15T20:38:57.000Z",
+    "updatedAt": "2023-02-15T20:38:57.000Z",
+    "category": {
+      "id": 3,
+      "name": "Muebles",
+      "image": "https://firebasestorage.googleapis.com/v0/b/platzi-store-forms.appspot.com/o/categories%2Fmh.jpg?alt=media&token=0e28fbcc-4b27-4205-8d0f-c127c9972c45",
+      "creationAt": "2023-02-15T20:38:57.000Z",
+      "updatedAt": "2023-02-16T19:58:08.000Z"
+    }
+  },
+  {
+    "id": 48,
+    "title": "Incredible Soft Gloves",
+    "price": 302,
+    "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+    "images": [
+      "https://api.lorem.space/image/fashion?w=640&h=480&r=8511",
+      "https://api.lorem.space/image/fashion?w=640&h=480&r=3134",
+      "https://api.lorem.space/image/fashion?w=640&h=480&r=8907"
+    ],
+    "creationAt": "2023-02-15T20:38:57.000Z",
+    "updatedAt": "2023-02-15T20:38:57.000Z",
+    "category": {
+      "id": 1,
+      "name": "Ropa",
+      "image": "https://api.lorem.space/image/fashion?w=640&h=480&r=1358",
+      "creationAt": "2023-02-15T20:38:57.000Z",
+      "updatedAt": "2023-02-16T19:56:54.000Z"
+    }
+  },
+  {
+    "id": 49,
+    "title": "Small Metal Cheese",
+    "price": 255,
+    "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+    "images": [
+      "https://api.lorem.space/image/furniture?w=640&h=480&r=2796",
+      "https://api.lorem.space/image/furniture?w=640&h=480&r=7959",
+      "https://api.lorem.space/image/furniture?w=640&h=480&r=9161"
+    ],
+    "creationAt": "2023-02-15T20:38:57.000Z",
+    "updatedAt": "2023-02-15T20:38:57.000Z",
+    "category": {
+      "id": 3,
+      "name": "Muebles",
+      "image": "https://firebasestorage.googleapis.com/v0/b/platzi-store-forms.appspot.com/o/categories%2Fmh.jpg?alt=media&token=0e28fbcc-4b27-4205-8d0f-c127c9972c45",
+      "creationAt": "2023-02-15T20:38:57.000Z",
+      "updatedAt": "2023-02-16T19:58:08.000Z"
+    }
+  }
+]
