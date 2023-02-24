@@ -21,7 +21,7 @@ export function Filters() {
     <header className='flex justify-between px-2 py-4'>
       <div className='flex gap-1 justify-center items-center'>
         <label className='text-gray-100 mr-1' htmlFor='minPriceFilter'>
-          Precio Minimo:
+          Precio Mínimo:
         </label>
         <input
           className='accent-[#9c1111]'
